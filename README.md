@@ -1,5 +1,7 @@
 # vueschool-forum
 
+Versión Vicky Figini!
+
 ## Project setup
 ```
 npm install
